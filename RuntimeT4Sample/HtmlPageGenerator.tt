@@ -1,0 +1,10 @@
+﻿<#@ template debug="false" hostSpecific="false" #>
+<html>
+<head></head>
+<body>
+<h1>Generated Page</h1>
+<b>Date:</b> <#= DateTime.Now #></br>
+<b>User:</b> <#= Environment.UserName #></br>
+<b>Text:</b> <#= this._customText #></br>
+</body>
+</html>

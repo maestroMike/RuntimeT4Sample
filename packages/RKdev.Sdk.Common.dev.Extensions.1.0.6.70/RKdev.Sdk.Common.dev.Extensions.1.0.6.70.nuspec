@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>RKdev.Sdk.Common.dev.Extensions</id>
+    <version>1.0.6.70</version>
+    <title>RKdev.Sdk.Common.dev.Extensions</title>
+    <authors>RKdev</authors>
+    <owners>RKdev</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>RKdev.Sdk.Common.dev.Extensions, build date: 2013-01-11 12:01:26</description>
+    <copyright>Copyright (c) RKdev 2011-2013</copyright>
+    <tags>rkdev sdk extensions</tags>
+  </metadata>
+</package>
